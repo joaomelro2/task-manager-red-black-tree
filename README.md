@@ -16,7 +16,3 @@ Aplicação de gestão de tarefas utilizando uma **Red-Black Tree** em Java. Per
 - Estruturas de Dados: Red-Black Tree
 - Console / Scanner
 
-## Como usar
-1. Clonar o repositório:
-   ```bash
-   git clone https://github.com/joaomelro2/task-manager-red-black-tree.git
